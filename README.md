@@ -52,3 +52,6 @@ X8 Glazing Area Distribution
 y1 Heating Load - Target
 
 y2 Cooling Load - Target
+
+
+colab link: https://colab.research.google.com/drive/1Tpup56ivd5o9iUUQ5cw3jVGeJv-OffGc?usp=sharing
